@@ -6,7 +6,7 @@ function BarraNavegacion() {
   const [abierto, setAbierto] = useState(false)
 
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-success">
+    <nav className="navbar navbar-expand-md navbar-dark bg-primary">
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
           🛸 Rick and Morty App

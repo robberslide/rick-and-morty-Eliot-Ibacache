@@ -25,7 +25,7 @@ function TarjetaPersonaje({ personaje }) {
         </p>
       </div>
       <div className="card-footer bg-white border-0">
-        <Link to={`/personaje/${personaje.id}`} className="btn btn-outline-success btn-sm w-100">
+        <Link to={`/personaje/${personaje.id}`} className="btn btn-outline-primary btn-sm w-100">
           Ver detalle
         </Link>
       </div>

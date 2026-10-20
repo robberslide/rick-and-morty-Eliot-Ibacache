@@ -24,14 +24,14 @@ function Detalle() {
     return (
       <>
         <MensajeError mensaje={error} />
-        <Link to="/" className="btn btn-success">Volver</Link>
+        <Link to="/" className="btn btn-primary">Volver</Link>
       </>
     )
   }
 
   return (
     <>
-      <Link to="/" className="btn btn-outline-success mb-3">← Volver</Link>
+      <Link to="/" className="btn btn-outline-primary mb-3">← Volver</Link>
       <div className="card">
         <div className="row g-0">
           <div className="col-md-4">

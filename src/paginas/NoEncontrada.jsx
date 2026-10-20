@@ -5,7 +5,7 @@ function NoEncontrada() {
     <div className="text-center my-5">
       <h1>404</h1>
       <p>Esta página no existe en ninguna dimensión.</p>
-      <Link to="/" className="btn btn-success">Volver al inicio</Link>
+      <Link to="/" className="btn btn-primary">Volver al inicio</Link>
     </div>
   )
 }

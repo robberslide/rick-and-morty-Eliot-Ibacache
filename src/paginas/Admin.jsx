@@ -51,7 +51,7 @@ function Admin() {
           <h5>Mis personajes ({personajes.length})</h5>
           <div className="table-responsive">
             <table className="table table-striped table-hover bg-white align-middle">
-              <thead className="table-success">
+              <thead className="table-primary">
                 <tr>
                   <th>Nombre</th>
                   <th>Especie</th>
