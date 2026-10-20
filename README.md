@@ -4,7 +4,7 @@ Aplicación web hecha en **React** que consume la API pública de [Rick and Mort
 Evaluación Parcial 2 - Desarrollo Full Stack (DSY1104) - Duoc UC.
 
 - **GitHub:** https://github.com/robberslide/rick-and-morty-Eliot-Ibacache
-- **Link en AWS: http://rick-and-morty-eliot-ibacache.s3-website-us-east-1.amazonaws.com
+- **Link en AWS:** http://rick-and-morty-eliot-ibacache.s3-website-us-east-1.amazonaws.com
 ## ¿Qué hace?
 
 - Muestra los personajes en tarjetas (imagen, nombre, especie, estado, género, origen y ubicación)
