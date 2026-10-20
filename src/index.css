@@ -1,0 +1,22 @@
+/* Estilos propios (lo demás es Bootstrap) */
+body {
+  background-color: #f2f5ef;
+}
+
+.titulo-app {
+  color: #2b6b1f;
+}
+
+.tarjeta-personaje img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.tarjeta-personaje:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.foto-detalle {
+  max-height: 350px;
+  object-fit: cover;
+}
