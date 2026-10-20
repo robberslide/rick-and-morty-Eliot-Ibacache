@@ -3,7 +3,7 @@
 Aplicación web hecha en **React** que consume la API pública de [Rick and Morty](https://rickandmortyapi.com/api/character).
 Evaluación Parcial 2 - Desarrollo Full Stack (DSY1104) - Duoc UC.
 
-- **GitHub:** https://github.com/robberslide/rick-and-morty-app
+- **GitHub:** https://github.com/robberslide/rick-and-morty-Eliot-Ibacache
 - **Link en AWS:** _(pegar aquí la URL cuando esté desplegado)_
 
 ## ¿Qué hace?
