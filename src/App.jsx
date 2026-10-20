@@ -17,9 +17,6 @@ function App() {
           <Route path="*" element={<NoEncontrada />} />
         </Routes>
       </div>
-      <footer className="text-center text-muted small py-3">
-        Evaluación Parcial 2 - Desarrollo Full Stack - Duoc UC
-      </footer>
     </>
   )
 }
